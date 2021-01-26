@@ -11,7 +11,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-video: https://www.youtube.com/embed/SFnYnXbBvHE
 
 # Header 1
 ## Header 2
@@ -22,6 +21,8 @@ video: https://www.youtube.com/embed/SFnYnXbBvHE
 
 1. Numbered
 2. List
+video: https://www.youtube.com/embed/SFnYnXbBvHE
+
 
 **Bold** and _Italic_ and `Code` text
 
